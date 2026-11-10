@@ -1,0 +1,10 @@
+
+{
+  "name": "team-ex-secret-message-sender",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
